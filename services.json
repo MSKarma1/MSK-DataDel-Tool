@@ -1,0 +1,132 @@
+{
+                "Google": {
+                    "url_suppression": "https://myaccount.google.com/delete-account",
+                    "categorie": "Tech",
+                    "Difficulte": "Facile"
+                },
+                "Facebook": {
+                    "url_suppression": "https://www.facebook.com/help/delete_account", 
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Moyen"
+                },
+                "Twitter": {
+                    "url_suppression": "https://twitter.com/settings/deactivate", 
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Facile"
+                },
+                "Instagram": {
+                    "url_suppression": "https://www.instagram.com/accounts/remove/request/permanent/", 
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Moyen"
+                },
+                "LinkedIn": {
+                    "url_suppression": "https://www.linkedin.com/help/linkedin/answer/63/deleting-your-linkedin-account?lang=en", 
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Facile"
+                },
+                "Amazon": {
+                    "url_suppression": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ", 
+                    "categorie": "E-commerce",
+                    "Difficulte": "Difficile"
+                },
+                "Spotify": {
+                    "url_suppression": "https://www.spotify.com/account/delete/", 
+                    "categorie": "Streaming",
+                    "Difficulte": "Facile"
+                },
+                "Netflix": {
+                    "url_suppression": "https://www.netflix.com/YourAccount",
+                    "categorie": "Streaming",
+                    "Difficulte": "Moyen"
+                },
+                "Discord": {
+                    "url_suppression": "https://support.discord.com/hc/en-us/articles/360040724412-How-do-I-delete-my-account-",
+                    "categorie": "Communication",
+                    "Difficulte": "Facile"
+                },
+                "Youtube": {
+                    "url_suppression": "https://support.google.com/youtube/answer/55759?hl=en",
+                    "categorie": "Tech",
+                    "Difficulte": "Moyen"
+                },
+                "Cloudflare": {
+                    "url_suppression": "https://support.cloudflare.com/hc/en-us/articles/200170156-How-do-I-close-my-Cloudflare-account-",
+                    "categorie": "Tech",
+                    "Difficulte": "Difficile"
+                },
+                "Reddit": {
+                    "url_suppression": "https://www.reddit.com/prefs/deleteaccount",
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Facile"
+                },
+                "Snapchat": {
+                    "url_suppression": "https://support.snapchat.com/en-US/a/delete-my-account",
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Moyen"
+                },
+                "Pinterest": {
+                    "url_suppression": "https://help.pinterest.com/en/article/deactivate-or-close-your-account",
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Facile"
+                },
+                "TikTok": {
+                    "url_suppression": "https://www.tiktok.com/delete-account",
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Moyen"
+                },
+                "PayPal": {
+                    "url_suppression": "https://www.paypal.com/us/smarthelp/article/how-do-i-close-my-paypal-account-faq3565",
+                    "categorie": "Finance",
+                    "Difficulte": "Difficile"
+                },
+                "Crunchyroll": {
+                    "url_suppression": "https://help.crunchyroll.com/hc/en-us/articles/204011724-How-do-I-cancel-my-Crunchyroll-subscription-",
+                    "categorie": "Streaming",
+                    "Difficulte": "Facile"
+                },
+                "GitHub": {
+                    "url_suppression": "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/deleting-your-user-account",
+                    "categorie": "Tech",
+                    "Difficulte": "Moyen"
+                },
+                "Twitch": {
+                    "url_suppression": "https://help.twitch.tv/s/article/how-to-delete-your-twitch-account?language=en_US",
+                    "categorie": "Streaming",
+                    "Difficulte": "Facile"
+                },
+                "Yahoo": {
+                    "url_suppression": "https://help.yahoo.com/kb/account/delete-yahoo-account-sln2044.html",
+                    "categorie": "Tech",
+                    "Difficulte": "Moyen"
+                },
+                "eBay": {
+                    "url_suppression": "https://www.ebay.com/help/account/settings-account/delete-or-deactivate-account?id=4191",
+                    "categorie": "E-commerce",
+                    "Difficulte": "Difficile"
+                },
+                "Tinder": {
+                    "url_suppression": "https://www.tinder.com/delete-account",
+                    "categorie": "Réseaux Sociaux",
+                    "Difficulte": "Facile"
+                },
+                "Dropbox": {
+                    "url_suppression": "https://help.dropbox.com/accounts-billing/delete-account",
+                    "categorie": "Tech",
+                    "Difficulte": "Moyen"
+                },
+                "Airbnb": {
+                    "url_suppression": "https://www.airbnb.com/help/article/1376/how-do-i-delete-my-airbnb-account",
+                    "categorie": "E-commerce",
+                    "Difficulte": "Difficile"
+                },
+                "Apple": {
+                    "url_suppression": "https://privacy.apple.com/account/delete",
+                    "categorie": "Tech",
+                    "Difficulte": "Moyen"
+                },
+                "Apple Music": {
+                    "url_suppression": "https://support.apple.com/en-us/HT205064",
+                    "categorie": "Streaming",
+                    "Difficulte": "Facile"
+                }
+            }

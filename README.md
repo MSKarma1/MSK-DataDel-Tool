@@ -1,6 +1,6 @@
 # MSK Data Deletion (DataDel)
 
-**DataDel** is a cybersecurity and privacy tool designed to streamline the exercise of the "Right to be Forgotten" (GDPR Article 17). It provides a Command Line Interface (CLI) to identify deletion endpoints and automate the login/deletion process using Selenium.
+**DataDel** is a cybersecurity and privacy tool designed to streamline the exercise of the "Right to be Forgotten" (RGPD - Article 17). It provides a Command Line Interface (CLI) to identify deletion endpoints and automate the login/deletion process using Selenium.
 
 > **Disclaimer:** This tool is for educational and privacy compliance purposes. Use responsibly.
 
